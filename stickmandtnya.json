@@ -153,12 +153,12 @@
             "ico" : "",
             "bg" : "#FB923C"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "puzzle",
             "ico" : "https://9asso.github.io/published/imgs/btpuzzle.png",
             "bg" : "#FBBF24"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "spinner",
             "ico" : "https://9asso.github.io/published/imgs/btspin.png",
             "bg" : "#A3E635"
@@ -188,7 +188,7 @@
             "ico" : "https://9asso.github.io/published/imgs/btmore.png",
             "bg" : "#3F51B5"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "games",
             "ico" : "https://9asso.github.io/published/imgs/btgames.png",
             "bg" : "#673AB7"
