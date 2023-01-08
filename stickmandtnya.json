@@ -249,6 +249,13 @@
             "link" : "https://yandex.com/games/app/174274#app-id=174274&catalog-session-uid=catalog-8d36cb4c-b6de-53e9-ba07-5c598ba3eda6-1673130250263-a1cd&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22search%22%7D",
             "cat" : "Strategies",
             "orientation" : "1"
+        },
+          {
+            "name" : "Stickman Annihilation II",
+            "ico" : "https://avatars.mds.yandex.net/get-games/1892995/2a000001841fbcaa3d1e308eacb2cd0c1b53/default170x170",
+            "link" : "https://yandex.com/games/app/180432#app-id=180432&catalog-session-uid=catalog-8d36cb4c-b6de-53e9-ba07-5c598ba3eda6-1673130250263-a1cd&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22search%22%7D ",
+            "cat" : "Strategies",
+            "orientation" : "1"
         },{
             "name" : "Stickman War",
             "ico" : "https://avatars.mds.yandex.net/get-games/1892995/2a00000180fa5321f121c7c291a5fcd47d3b/default170x170",
