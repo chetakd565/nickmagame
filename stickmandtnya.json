@@ -253,15 +253,21 @@
           {
             "name" : "Stickman Annihilation II",
             "ico" : "https://avatars.mds.yandex.net/get-games/1892995/2a000001841fbcaa3d1e308eacb2cd0c1b53/default170x170",
-            "link" : "https://yandex.com/games/app/180432#app-id=180432&catalog-session-uid=catalog-8d36cb4c-b6de-53e9-ba07-5c598ba3eda6-1673130250263-a1cd&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22search%22%7D ",
+            "link" : "https://yandex.com/games/app/180432#app-id=180432&catalog-session-uid=catalog-8d36cb4c-b6de-53e9-ba07-5c598ba3eda6-1673130250263-a1cd&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22search%22%7D",
             "cat" : "Strategies",
             "orientation" : "0"
         },{
             "name" : "Stickman War",
             "ico" : "https://avatars.mds.yandex.net/get-games/1892995/2a00000180fa5321f121c7c291a5fcd47d3b/default170x170",
-            "link" : "https://yandex.com/games/app/163255#app-id=163255&catalog-session-uid=catalog-8d36cb4c-b6de-53e9-ba07-5c598ba3eda6-1673130250263-a1cd&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22search%22%7D  ",
+            "link" : "https://yandex.com/games/app/163255#app-id=163255&catalog-session-uid=catalog-8d36cb4c-b6de-53e9-ba07-5c598ba3eda6-1673130250263-a1cd&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22search%22%7D",
             "cat" : "Strategies",
             "orientation" : "0"
+        },{
+            "name" : "Edy Play Games",
+            "ico" : "https://avatars.mds.yandex.net/get-games/2977039/2a000001823b689b4b799c575d64dfb1c41e/pjpg268x268",
+            "link" : "https://yandex.com/games/app/193277#app-id=193277&catalog-session-uid=catalog-7ec8e77d-e839-54dc-a6ae-1da5f9162b01-1673602290259-76bb&rtx-reqid=9560223158343783152&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22arcade%22%7D",
+            "cat" : "Strategies",
+            "orientation" : "1"
         }
 
     ],
